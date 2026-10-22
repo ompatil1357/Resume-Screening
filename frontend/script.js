@@ -5,7 +5,7 @@
 // from the JSON the backend returns from the live LLM call.
 // ============================================================
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "http://localhost:5001";
 
 const dropzone = document.getElementById("dropzone");
 const fileInput = document.getElementById("fileInput");
